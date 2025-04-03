@@ -53,20 +53,3 @@
 **Tools:** `Splunk` `Sigma` `ELK` `YARA`
 
 ---
-
-## 🛠️ Technical Proficiencies
-
-**Security Tools:**
-```mermaid
-pie
-    title Tool Expertise
-    "Tenable/Nessus" : 35
-    "Splunk/ELK" : 25
-    "Metasploit" : 15
-    "Burp Suite" : 15
-    "Wireshark" : 10
-
-graph LR
-    A[PowerShell] --> B[Automation]
-    C[Python] --> D[Tool Development]
-    E[BASH] --> F[System Hardening]
