@@ -1,55 +1,85 @@
-# Emmanuel Chiome's Cybersecurity Portfolio 🔐
+# 👋 Emmanuel Chiome
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emmanuel-chiome-004644182)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Emmanuel-Chiome)
-[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square)](https://yourportfolio.com)
-
-> "I architect digital resilience through proactive security measures and hands-on vulnerability management."
-
-## 🛡️ Core Competencies
-- **Vulnerability Management** | **Threat Hunting** | **Security Operations**
-- **Scripted Remediations** | **Incident Response** | **Security Automation**
+### 🔐 **Cybersecurity Analyst** | 🛡️ **SOC Architect** | 🔍 **Threat Intelligence Specialist**
 
 ---
 
-## 🔍 Featured Projects
+## 🧑‍💻 About Me
 
-### ⚠️ Vulnerability Management
+I specialize in **threat detection**, **incident response**, and **SOC optimization**, with over 5 years of hands-on experience in:
 
-#### [Comprehensive Vulnerability Management Program](https://github.com/Emmanuel-Chiome/VULNERABILITY-MANAGEMENT-)
-![Vulnerability Reduction](https://img.shields.io/badge/Reduction-80%25-critical) 
-![Critical Fixes](https://img.shields.io/badge/Critical-100%25-red)
+- 🛡️ **SIEM Engineering** (Microsoft Sentinel, Splunk, Elastic Stack)
+- 🎯 **Threat Hunting** (MITRE ATT&CK, YARA, Sigma Rules)
+- ☁️ **Cloud Security** (Azure Defender, AWS GuardDuty)
+- ⚙️ **Detection-as-Code** (KQL, PowerShell, Python Automation)
 
-**Key Achievements:**
-- Implemented end-to-end vulnerability management lifecycle
-- Developed PowerShell/BASH automation for remediation
-- Reduced vulnerabilities by 80% in first cycle
+> *"Turning security alerts into actionable intelligence with precision and automation."*
 
-**Tech Stack:** 
-`Tenable` `PowerShell` `Azure` `Nessus`
-
-#### [Programmatic Vulnerability Remediations](https://github.com/joshcybertest/programmatic-vulnerability-remediations)
-![Automation](https://img.shields.io/badge/Automated-15+_remediations-blue)
-
-**Highlights:**
-- Library of security hardening scripts
-- Registry-based protocol management
-- CIS benchmark compliance
-
-**Tech:** `PowerShell` `BASH` `DSC` `Ansible`
+📘 I align incident response practices with [NIST SP 800-61](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final) for robust and effective security operations.
 
 ---
 
-### 🕵️ Threat Hunting & Detection
+## 🧰 Technical Arsenal
 
-#### [Tor Browser Usage Detection](https://github.com/joshmadakor0/threat-hunting-scenario-tor)
-![Detection](https://img.shields.io/badge/Detection-Rate-95%25-yellowgreen)
+### 🛡️ Defensive Security
 
-**Features:**
-- Sigma rules for Tor detection
-- Splunk queries for network analysis
-- Threat hunting methodology
-
-**Tools:** `Splunk` `Sigma` `ELK` `YARA`
+| SIEM Platforms              | EDR/XDR Solutions         | Network Defense |
+| --------------------------- | ------------------------- | --------------- |
+| Microsoft Sentinel          | Microsoft Defender XDR    | Wireshark       |
+| Splunk Enterprise/Splunk ES | CrowdStrike Falcon        | Zeek            |
+| Elastic Stack (ELK)         | SentinelOne, Defender ATP | Suricata        |
 
 ---
+
+### ⚔️ Threat Intelligence
+
+| Threat Feeds        | Analysis Tools      | Frameworks        |
+| ------------------- | ------------------- | ----------------- |
+| MISP, OTX, URLhaus  | VirusTotal, Any.Run | MITRE ATT&CK      |
+| GreyNoise, Cymon.io | YARA, CyberChef     | Sigma, STIX/TAXII |
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                     | Description                                            | Technologies         |
+| --------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
+| **[Azure SOC Lab](https://github.com/EmmanuelChiome/Azure-SOC-Lab)**        | Production-grade SOC with automated threat simulations | Azure, KQL, Sentinel |
+| **[Threat Hunter's Playbook](https://github.com/EmmanuelChiome/SOC-Cases)** | 50+ detection rules mapped to MITRE ATT&CK             | Sigma, Elastic Stack |
+| **[Cloud Honeynet](https://github.com/EmmanuelChiome/Honeynet-Project)**    | Multi-cloud attack surface monitoring                  | AWS, GCP, Suricata   |
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Google IT Support**
+- 🎓 **Google Cybersecurity Certificate**
+- 🛡️ **CompTIA Security+** *(In Progress)*
+- 🌐 **CompTIA Network+** *(In Progress)*
+- 🔍 **Certified SOC Analyst (CSA)** *(In Progress)*
+- ☁️ **AZ-500: Microsoft Azure Security** *(In Progress)*
+
+---
+
+## 🚧 Currently Exploring
+
+- 💣 Leading adversary emulation using **Atomic Red Team** & **Caldera**
+- ⚙️ Automating IOC enrichment with **MISP**, **Python**, and **OpenCTI**
+- 📈 Constructing advanced **KQL** detections mapped to **MITRE TTPs**
+
+---
+
+## 📊 GitHub Analytics
+
+*Coming soon: Graphs showcasing project contributions, language usage, and repo stars.*
+
+---
+
+## 📫 Contact
+
+📧 **Email**: [chiome0707@gmail.com](mailto:chiome0707@gmail.com)  
+💬 **Signal**: +263 781602242
+
+---
+
+> 🔐 *"Security is not a product, but a process."* — **Bruce Schneier**
