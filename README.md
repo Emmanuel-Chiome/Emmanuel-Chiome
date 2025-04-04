@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 **About Me**
 
-I am a cybersecurity professional with over 5 years of hands-on experience in:
+Cybersecurity Analyst | Safeguarding Digital Assets, Mitigating Threats, and Ensuring Robust Defense Strategies in :
 
 - 🛡️ **SIEM Engineering** (Microsoft Sentinel, Splunk, Elastic Stack)
 - 🎯 **Threat Hunting** (MITRE ATT&CK, YARA, Sigma Rules)
@@ -40,13 +40,13 @@ I am a cybersecurity professional with over 5 years of hands-on experience in:
 
 ---
 
-## 🚀 **Pending Projects**
+# 🚀🚀 Pending Projects
 
-| **Project**           | **Description**                              | **Technologies**          |
-|-----------------------|----------------------------------------------|---------------------------|
-| **Azure SOC Lab**     | Built a production-grade SOC with automated simulations | Azure, KQL, Sentinel      |
-| **Threat Hunter's Playbook** | Developed 50+ detection rules mapped to MITRE ATT&CK  | Sigma, Elastic Stack      |
-| **Cloud Honeynet**    | Multi-cloud attack surface monitoring        | AWS, GCP, Suricata        |
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[Azure SOC Lab](https://github.com/Emmanuel-Chiome/Azure-SOC-Lab)** <br> ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square) | Building production-grade SOC with automated attack simulations | ![KQL](https://img.shields.io/badge/-KQL-004880?style=flat-square) ![Sentinel](https://img.shields.io/badge/-Sentinel-0078D4?style=flat-square) | ![Progress](https://progress-bar.dev/75/?title=Implementation) |
+| **[Threat Hunter's Playbook](https://github.com/Emmanuel-Chiome/SOC-Cases)** <br> ![MITRE](https://img.shields.io/badge/-MITRE_ATT&CK-FF6D00?style=flat-square) | Developing 50+ detection rules mapped to MITRE ATT&CK | ![Sigma](https://img.shields.io/badge/-Sigma-32CD32?style=flat-square) ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square) | ![Progress](https://progress-bar.dev/60/?title=Development) |
+| **[Cloud Honeynet](https://github.com/Emmanuel-Chiome/Honeynet-Project)** <br> ![Cloud](https://img.shields.io/badge/-Multi--Cloud-FF9900?style=flat-square) | Implementing multi-cloud attack surface monitoring | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square) ![Suricata](https://img.shields.io/badge/-Suricata-00A0DC?style=flat-square) | ![Progress](https://progress-bar.dev/45/?title=Deployment) |
 
 ---
 
