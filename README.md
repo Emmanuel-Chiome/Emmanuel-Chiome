@@ -44,9 +44,9 @@ I specialize in **threat detection**, **incident response**, and **SOC optimizat
 
 | Project                                                                     | Description                                            | Technologies         |
 | --------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------- |
-| **[Azure SOC Lab](https://github.com/EmmanuelChiome/Azure-SOC-Lab)**        | Production-grade SOC with automated threat simulations | Azure, KQL, Sentinel |
-| **[Threat Hunter's Playbook](https://github.com/EmmanuelChiome/SOC-Cases)** | 50+ detection rules mapped to MITRE ATT&CK             | Sigma, Elastic Stack |
-| **[Cloud Honeynet](https://github.com/EmmanuelChiome/Honeynet-Project)**    | Multi-cloud attack surface monitoring                  | AWS, GCP, Suricata   |
+| **[Azure SOC Lab](https://github.com/Emmanuel-Chiome/Azure-SOC-Lab)**        | Production-grade SOC with automated threat simulations | Azure, KQL, Sentinel |
+| **[Threat Hunter's Playbook](https://github.com/Emmanuel-Chiome/SOC-Cases)** | 50+ detection rules mapped to MITRE ATT&CK             | Sigma, Elastic Stack |
+| **[Cloud Honeynet](https://github.com/Emmanuel-Chiome/Honeynet-Project)**    | Multi-cloud attack surface monitoring                  | AWS, GCP, Suricata   |
 
 ---
 
